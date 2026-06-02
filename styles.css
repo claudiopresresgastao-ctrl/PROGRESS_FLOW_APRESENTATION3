@@ -234,6 +234,7 @@ button.dot:focus-visible{outline:3px solid rgba(124,58,237,0.9);outline-offset:3
 }
 
 @media (max-width: 480px) {
+  #s_figma{ display: none;}
   header{padding:10px;max-width:98vw}
   .logo-name{font-size:1rem}
   .stage{width:98vw;border-radius:10px;height:auto;overflow:visible}
